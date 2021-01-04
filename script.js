@@ -60,3 +60,6 @@ git config --local user.email ivan8donik@gmail.com
 
 git status (Проверка файлов()
 git add -A (Добавить все файлы в репозиторий)
+git add main.css (Добавить файл вручную)
+
+git commit -a -m"First commit" (Загружать все файлы на сайт GitHub)
